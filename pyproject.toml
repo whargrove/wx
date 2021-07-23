@@ -6,6 +6,7 @@ authors = ["Wes Hargrove <wes@hargrove.me>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+typer = "^0.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
